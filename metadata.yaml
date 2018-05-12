@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8771'
     url: http://www.gutenberg.org/2009/agents/8771
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25044#The-Eugenic-Marriage-Vol.-3--13-A-Personal-Guide-to-the-New-Science-of-Better-Living-and-Bett_
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2008-04-11'
 gutenberg_type: Text
